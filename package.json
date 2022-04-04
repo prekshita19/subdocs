@@ -1,0 +1,23 @@
+{
+  "name": "lab-node-api-sub-document",
+  "version": "1.0.0",
+  "description": "![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikeyandhanasekar/lab-node-api-sub-document.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikeyandhanasekar/lab-node-api-sub-document/issues"
+  },
+  "homepage": "https://github.com/karthikeyandhanasekar/lab-node-api-sub-document#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
